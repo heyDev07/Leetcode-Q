@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/heyDev07/Leetcode-Q/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/heyDev07/Leetcode-Q/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/heyDev07/Leetcode-Q/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
