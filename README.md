@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/heyDev07/Leetcode-Q/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/heyDev07/Leetcode-Q/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/heyDev07/Leetcode-Q/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/heyDev07/Leetcode-Q/tree/master/0033-search-in-rotated-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/heyDev07/Leetcode-Q/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/heyDev07/Leetcode-Q/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,4 +60,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/heyDev07/Leetcode-Q/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/heyDev07/Leetcode-Q/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
