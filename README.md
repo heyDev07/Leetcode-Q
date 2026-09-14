@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/heyDev07/Leetcode-Q/tree/master/0033-search-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/heyDev07/Leetcode-Q/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/heyDev07/Leetcode-Q/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/heyDev07/Leetcode-Q/tree/master/0503-next-greater-element-ii) |
 ## Binary Search
@@ -61,4 +62,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/heyDev07/Leetcode-Q/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/heyDev07/Leetcode-Q/tree/master/0503-next-greater-element-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/heyDev07/Leetcode-Q/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/heyDev07/Leetcode-Q/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/heyDev07/Leetcode-Q/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/heyDev07/Leetcode-Q/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
