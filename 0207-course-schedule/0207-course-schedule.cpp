@@ -2,16 +2,17 @@ class Solution {
 public:
     bool solve(int node,vector<vector<int>>&adj,vector<int>&visited,vector<int>&currpath){
         visited[node]=1;
+        currpath[node]=1;
         for(auto nei: adj[node]){
             if(!visited[nei]){
-                currpath[nei]=1;
-                if(!solve(nei,adj,visited,currpath)){return false;}
-                currpath[nei]=0;
+                if(!solve(nei,adj,visited,currpath)){return false;
             }
+        }
             else if(currpath[nei]==1) return false;
         }
+        currpath[node]=0;
         return true;
-    }
+}
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         int n=numCourses;
         vector<int>visited(n,0);
@@ -25,13 +26,12 @@ public:
         //just check if there is a cycle there or not if yes then false else return true
         for(int i=0;i<n;i++){
             if(!visited[i]){
-                currpath[i]=1;
                 if(!solve(i,adj,visited,currpath)){
                     return false;
                 };
-                currpath[i]=0;
             }
         }
         return true;
     }
+
 };
