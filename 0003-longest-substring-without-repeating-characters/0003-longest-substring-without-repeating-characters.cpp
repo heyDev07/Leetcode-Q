@@ -15,9 +15,7 @@ public:
                     st.erase(s[j]);
                     j++;
                 }
-                st.erase(s[j]);
                 j++;
-                st.insert(s[i]);
             }
             ans=max(ans,(int)st.size());
         }
